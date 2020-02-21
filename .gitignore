@@ -143,3 +143,9 @@ pupil_track-Donnie-2019-02-12
 
 # .ipynb
 *.ipynb
+
+# .jpg
+*.jpg
+
+# .mat
+*.mat
